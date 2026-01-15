@@ -66,19 +66,14 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 </div>
 
 ---
-
-## 📊 Estadísticas de GitHub
-
+📊 Estadísticas de GitHub
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samrodri911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrodri911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrodri911&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samrodri911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrodri911&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9"/>
 </div>
-
+<div align="center">
+Mostrar imagen
+</div>
 ---
 
 ## 🎯 Proyectos Destacados
@@ -98,9 +93,9 @@ Sistema de gestión de inventario web con interfaz moderna e intuitiva. Permite 
 ### 📌 Proyecto 2: The Last of Ants
 [![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Game-Ants)
 
-Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervivencia. Implementa algoritmos de inteligencia artificial para el comportamiento de las hormigas y optimización de rendimiento.
+Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervivencia. 
 
-**Tech Stack:** C++
+**Tech Stack:** C++ x SFML
 
 </div>
 
