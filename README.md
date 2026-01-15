@@ -2,7 +2,7 @@
   
 # 👋 ¡Hola! Soy Samuel Rodriguez Solarte
 
-### 💻 Estudiante de Ingeniería de Sistemas | Full Stack Developer en formación
+### 💻 Estudiante de Ingeniería de Sistemas Y Siencias de la Compuitación| Full Stack Developer en formación
 
 [![Pontificia Universidad Javeriana Cali](https://img.shields.io/badge/Universidad-Javeriana_Cali-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.javerianacali.edu.co/)
 [![Semestre](https://img.shields.io/badge/Semestre-4°-00B4D8?style=for-the-badge)](https://github.com/samrodri911)
