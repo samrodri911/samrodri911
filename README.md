@@ -86,9 +86,9 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 
 <div align="center">
 
-### 📌 Proyecto 1: [Nombre del Proyecto]
-[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario/proyecto1)
-[![Demo](https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-proyecto.vercel.app)
+### 📌 Proyecto 1: Inventario web
+[![Repo]([https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario/proyecto1](https://github.com/samrodri911/Inventario.git))
+[![Demo]([https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-proyecto.vercel.app](https://inventario-ymfk.vercel.app/login))
 
 Breve descripción del proyecto que desarrollaste. Menciona las tecnologías principales y el problema que resuelve.
 
@@ -96,25 +96,14 @@ Breve descripción del proyecto que desarrollaste. Menciona las tecnologías pri
 
 ---
 
-### 📌 Proyecto 2: [Nombre del Proyecto]
-[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario/proyecto2)
+### 📌 Proyecto 2: The last of ants
+[![Repo]([https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario/proyecto2](https://github.com/samrodri911/Game-Ants.git))
 
 Descripción del segundo proyecto. Resalta los desafíos que superaste y las funcionalidades clave.
 
-**Tech Stack:** NestJS • TypeScript • PostgreSQL
+**Tech Stack:** C++
 
----
 
-### 📌 Proyecto 3: [Nombre del Proyecto]
-[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario/proyecto3)
-
-Describe tu tercer proyecto destacado y qué aprendiste durante su desarrollo.
-
-**Tech Stack:** Python • C++ • Algoritmos
-
-</div>
-
----
 
 ## 🌱 Actualmente aprendiendo
 
@@ -130,9 +119,9 @@ Describe tu tercer proyecto destacado y qué aprendiste durante su desarrollo.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samrosolar2007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
+
 
 </div>
 
