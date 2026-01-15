@@ -5,7 +5,7 @@
 ### 💻 Estudiante de Ingeniería de Sistemas | Full Stack Developer en formación
 
 [![Pontificia Universidad Javeriana Cali](https://img.shields.io/badge/Universidad-Javeriana_Cali-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.javerianacali.edu.co/)
-[![Semestre](https://img.shields.io/badge/Semestre-4°-00B4D8?style=for-the-badge)](https://github.com/tuusuario)
+[![Semestre](https://img.shields.io/badge/Semestre-4°-00B4D8?style=for-the-badge)](https://github.com/samrodri911)
 
 </div>
 
@@ -63,7 +63,6 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 </div>
 
 ---
@@ -72,11 +71,11 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samrodri911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrodri911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrodri911&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)
 
 </div>
 
@@ -86,24 +85,26 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 
 <div align="center">
 
-### 📌 Proyecto 1: Inventario web
-[![Repo]([https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario/proyecto1](https://github.com/samrodri911/Inventario.git))
-[![Demo]([https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-proyecto.vercel.app](https://inventario-ymfk.vercel.app/login))
+### 📌 Proyecto 1: Inventario Web
+[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Inventario)
+[![Demo](https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://inventario-ymfk.vercel.app/login)
 
-Breve descripción del proyecto que desarrollaste. Menciona las tecnologías principales y el problema que resuelve.
+Sistema de gestión de inventario web con interfaz moderna e intuitiva. Permite administrar productos, categorías y realizar seguimiento en tiempo real de stock y movimientos.
 
 **Tech Stack:** React • TypeScript • Next.js • TailwindCSS
 
 ---
 
-### 📌 Proyecto 2: The last of ants
-[![Repo]([https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/tuusuario/proyecto2](https://github.com/samrodri911/Game-Ants.git))
+### 📌 Proyecto 2: The Last of Ants
+[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Game-Ants)
 
-Descripción del segundo proyecto. Resalta los desafíos que superaste y las funcionalidades clave.
+Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervivencia. Implementa algoritmos de inteligencia artificial para el comportamiento de las hormigas y optimización de rendimiento.
 
 **Tech Stack:** C++
 
+</div>
 
+---
 
 ## 🌱 Actualmente aprendiendo
 
@@ -118,10 +119,9 @@ Descripción del segundo proyecto. Resalta los desafíos que superaste y las fun
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samrosolar2007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-rodriguez-solarte)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrosolar2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samrodri911)
 
 </div>
 
@@ -131,8 +131,8 @@ Descripción del segundo proyecto. Resalta los desafíos que superaste y las fun
 
 ### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/tuusuario/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/samrodri911/count.svg)
 
-⭐️ From [tuusuario](https://github.com/tuusuario) with 💙
+⭐️ From [samrodri911](https://github.com/samrodri911) with 💙
 
 </div>
