@@ -112,13 +112,3 @@ Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervive
 </div>
 
 ---
-
-<div align="center">
-
-### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Visitor Count](https://profile-counter.glitch.me/samrodri911/count.svg)
-
-⭐️ From [samrodri911](https://github.com/samrodri911) with 💙
-
-</div>
