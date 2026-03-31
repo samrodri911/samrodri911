@@ -2,10 +2,11 @@
   
 # 👋 ¡Hola! Soy Samuel Rodriguez Solarte
 
-### 💻 Estudiante de Ingeniería de Sistemas Y Siencias de la Compuitación| Full Stack Developer en formación
+### 💻 Estudiante de Ingeniería de Sistemas y Ciencias de la Computación | Full Stack Developer en formación
 
 [![Pontificia Universidad Javeriana Cali](https://img.shields.io/badge/Universidad-Javeriana_Cali-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.javerianacali.edu.co/)
 [![Semestre](https://img.shields.io/badge/Semestre-4°-00B4D8?style=for-the-badge)](https://github.com/samrodri911)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://samrodri911.github.io/Portafolio/)
 
 </div>
 
@@ -17,6 +18,7 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 
 - 🎓 Estudiante de Ingeniería de Sistemas
 - 💡 Enfocado en desarrollo web Full Stack
+- 🤖 Integro inteligencia artificial en flujos de trabajo de forma eficiente y responsable
 - 🌱 Aprendiendo continuamente sobre arquitecturas escalables y mejores prácticas
 - 🎯 Objetivo: Convertirme en un desarrollador versátil y contribuir a proyectos de impacto
 - 📫 Contáctame: samrosolar2007@gmail.com
@@ -56,6 +58,15 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 
 </div>
 
+### Inteligencia Artificial & Productividad
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 ### Herramientas & Otros
 <div align="center">
 
@@ -64,6 +75,20 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🤖 Desarrollo con Inteligencia Artificial
+
+Creo firmemente que la IA es una herramienta transformadora cuando se usa con criterio. Mi enfoque incluye:
+
+- 🧠 **Prompting efectivo**: Diseño prompts estructurados para obtener resultados precisos y útiles en tareas de desarrollo, análisis y generación de contenido técnico.
+- ⚙️ **Integración en flujos de trabajo**: Uso herramientas como GitHub Copilot y modelos de lenguaje (LLMs) para acelerar el desarrollo sin comprometer la calidad del código.
+- 🔍 **Pensamiento crítico ante la IA**: Valido, reviso y ajusto cada output generado por IA, asegurando que cumpla con estándares de calidad, seguridad y buenas prácticas.
+- 🛡️ **Uso responsable**: Entiendo los límites y riesgos de los modelos generativos y aplico principios éticos en su uso: privacidad, veracidad y transparencia.
+- 📈 **Productividad aumentada**: Combino mis conocimientos técnicos con IA para entregar soluciones más rápidas, iterativas y bien documentadas.
+
+> *"La IA no reemplaza el criterio del desarrollador — lo amplifica."*
 
 ---
 
@@ -84,7 +109,7 @@ Sistema de gestión de inventario web con interfaz moderna e intuitiva. Permite 
 ### 📌 Proyecto 2: The Last of Ants
 [![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Game-Ants)
 
-Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervivencia. 
+Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervivencia.
 
 **Tech Stack:** C++ x SFML
 
@@ -98,6 +123,7 @@ Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervive
 - 🐳 Docker y contenedores
 - ☁️ Servicios en la nube (AWS/Azure)
 - 📱 Desarrollo móvil con React Native
+- 🤖 Integración de LLMs y APIs de IA en aplicaciones web
 
 ---
 
@@ -105,6 +131,7 @@ Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervive
 
 <div align="center">
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://samrodri911.github.io/Portafolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodriguez-aa0a4036a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrosolar2007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samrodri911)
