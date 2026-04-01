@@ -1,10 +1,10 @@
 <div align="center">
-  
-# 👋 ¡Hola! Soy Samuel Rodriguez Solarte
 
-### 💻 Estudiante de Ingeniería de Sistemas y Ciencias de la Computación | Full Stack Developer en formación
+# Hi, I'm Samuel Rodriguez Solarte
 
-[![Pontificia Universidad Javeriana Cali](https://img.shields.io/badge/Universidad-Javeriana_Cali-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.javerianacali.edu.co/)
+### Systems Engineering Student | Full Stack Developer in Training
+
+[![Universidad Javeriana Cali](https://img.shields.io/badge/Universidad-Javeriana_Cali-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.javerianacali.edu.co/)
 [![Semestre](https://img.shields.io/badge/Semestre-4°-00B4D8?style=for-the-badge)](https://github.com/samrodri911)
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://samrodri911.github.io/Portafolio/)
 
@@ -12,22 +12,28 @@
 
 ---
 
-## 🚀 Sobre mí
+## About Me
 
-Soy un apasionado desarrollador en formación, actualmente cursando el 4° semestre de Ingeniería de Sistemas en la Pontificia Universidad Javeriana Cali. Me encanta construir soluciones tecnológicas innovadoras y aprender constantemente nuevas herramientas y metodologías de desarrollo.
+Passionate developer in training, currently in my 4th semester of Systems Engineering at Pontificia Universidad Javeriana Cali. I love building innovative tech solutions and constantly learning new tools and development methodologies.
+```
+Location  : Cali, Colombia
+University: Pontificia Universidad Javeriana Cali — 4th Semester
+Focus     : Full Stack Web Development + AI-assisted Engineering
+Contact   : samrosolar2007@gmail.com
+```
 
-- 🎓 Estudiante de Ingeniería de Sistemas
-- 💡 Enfocado en desarrollo web Full Stack
-- 🤖 Integro inteligencia artificial en flujos de trabajo de forma eficiente y responsable
-- 🌱 Aprendiendo continuamente sobre arquitecturas escalables y mejores prácticas
-- 🎯 Objetivo: Convertirme en un desarrollador versátil y contribuir a proyectos de impacto
-- 📫 Contáctame: samrosolar2007@gmail.com
+- Systems Engineering student with a product-oriented mindset
+- Focused on full stack web development
+- Integrates artificial intelligence into development workflows efficiently and responsibly
+- Continuously learning about scalable architectures and best practices
+- Goal: Become a versatile developer and contribute to high-impact projects
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Tech Stack
 
-### Lenguajes de Programación
+### Languages
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +44,8 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 
 </div>
 
-### Frontend Development
+### Frontend
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,7 +57,8 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 
 </div>
 
-### Backend Development
+### Backend
+
 <div align="center">
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -58,76 +66,81 @@ Soy un apasionado desarrollador en formación, actualmente cursando el 4° semes
 
 </div>
 
-### Inteligencia Artificial & Productividad
+### AI & Productivity
+
 <div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
-### Herramientas & Otros
+### Tools & DevOps
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🤖 Desarrollo con Inteligencia Artificial
+## AI-Assisted Development
 
-Creo firmemente que la IA es una herramienta transformadora cuando se usa con criterio. Mi enfoque incluye:
+I believe AI is a transformative tool when used with real technical judgment. My approach:
+```
+Effective Prompting    → Structured prompts for precise, useful outputs in development tasks
+Workflow Integration   → LLMs and AI tools to accelerate development without sacrificing quality
+Critical Thinking      → Every AI-generated output is reviewed, validated, and adjusted
+Responsible Use        → Ethics-first: privacy, accuracy, and transparency as non-negotiables
+Augmented Productivity → Combining technical knowledge with AI to ship faster and smarter
+```
 
-- 🧠 **Prompting efectivo**: Diseño prompts estructurados para obtener resultados precisos y útiles en tareas de desarrollo, análisis y generación de contenido técnico.
-- ⚙️ **Integración en flujos de trabajo**: Uso herramientas como GitHub Copilot y modelos de lenguaje (LLMs) para acelerar el desarrollo sin comprometer la calidad del código.
-- 🔍 **Pensamiento crítico ante la IA**: Valido, reviso y ajusto cada output generado por IA, asegurando que cumpla con estándares de calidad, seguridad y buenas prácticas.
-- 🛡️ **Uso responsable**: Entiendo los límites y riesgos de los modelos generativos y aplico principios éticos en su uso: privacidad, veracidad y transparencia.
-- 📈 **Productividad aumentada**: Combino mis conocimientos técnicos con IA para entregar soluciones más rápidas, iterativas y bien documentadas.
-
-> *"La IA no reemplaza el criterio del desarrollador — lo amplifica."*
+> "AI doesn't replace the developer's judgment — it amplifies it."
 
 ---
 
-## 🎯 Proyectos Destacados
+## Featured Projects
 
 <div align="center">
 
-### 📌 Proyecto 1: Inventario Web
-[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Inventario)
-[![Demo](https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://inventario-ymfk.vercel.app/login)
+### Inventario Web
 
-Sistema de gestión de inventario web con interfaz moderna e intuitiva. Permite administrar productos, categorías y realizar seguimiento en tiempo real de stock y movimientos.
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Inventario)
+[![Demo](https://img.shields.io/badge/Live_Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://inventario-ymfk.vercel.app/login)
 
-**Tech Stack:** React • TypeScript • Next.js • TailwindCSS
+Web-based inventory management system with a modern, intuitive interface. Handles product and category administration with real-time stock and movement tracking.
+
+`React` `TypeScript` `Next.js` `TailwindCSS`
 
 ---
 
-### 📌 Proyecto 2: The Last of Ants
-[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Game-Ants)
+### The Last of Ants
 
-Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervivencia.
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Game-Ants)
 
-**Tech Stack:** C++ x SFML
+C++ videogame with strategy and survival mechanics built from the ground up.
+
+`C++` `SFML`
 
 </div>
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## Currently Learning
 
-- 🔄 Arquitecturas de microservicios
-- 🐳 Docker y contenedores
-- ☁️ Servicios en la nube (AWS/Azure)
-- 📱 Desarrollo móvil con React Native
-- 🤖 Integración de LLMs y APIs de IA en aplicaciones web
+- Microservice architectures
+- Cloud services — AWS / Azure
+- Mobile development with React Native
+- LLM and AI API integration in web applications
 
 ---
 
-## 📫 Conecta conmigo
+## Connect
 
 <div align="center">
 
@@ -136,6 +149,13 @@ Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervive
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrosolar2007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samrodri911)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samrodri911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrodri911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
