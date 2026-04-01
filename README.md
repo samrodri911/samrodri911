@@ -89,7 +89,6 @@ Creo firmemente que la IA es una herramienta transformadora cuando se usa con cr
 - 🛡️ **Uso responsable**: Entiendo los límites y riesgos de los modelos generativos y aplico principios éticos en su uso: privacidad, veracidad y transparencia.
 - 📈 **Productividad aumentada**: Combino mis conocimientos técnicos con IA para entregar soluciones más rápidas, iterativas y bien documentadas.
 
-> *"La IA no reemplaza el criterio del desarrollador — lo amplifica."*
 
 ---
 
