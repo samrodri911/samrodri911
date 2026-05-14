@@ -108,13 +108,6 @@ Marketplace inteligente que optimiza la experiencia de compra y venta mediante I
 - 🚀 **Rendimiento:** Desarrollado con Next.js (App Router) y Tailwind CSS 4 para una interfaz rápida y reactiva.
 - ☁️ **Infraestructura:** Gestión de datos, imágenes y sesiones de usuario a través de Firebase.
 
-## 🌱 Actualmente aprendiendo
-
-- 🔄 Arquitecturas de microservicios
-- ☁️ Servicios en la nube (AWS/Azure)
-- 📱 Desarrollo móvil con React Native
-- 🤖 Integración de LLMs y APIs de IA en aplicaciones web
-
 ---
 
 ### 📌 Proyecto 2: Inventario Web
@@ -135,6 +128,14 @@ Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervive
 **Tech Stack:** C++ x SFML
 
 </div>
+
+## 🌱 Actualmente aprendiendo
+
+- 🔄 Arquitecturas de microservicios
+- ☁️ Servicios en la nube (AWS/Azure)
+- 📱 Desarrollo móvil con React Native
+- 🤖 Integración de LLMs y APIs de IA en aplicaciones web
+
 
 ---
 
