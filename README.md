@@ -96,7 +96,28 @@ Creo firmemente que la IA es una herramienta transformadora cuando se usa con cr
 
 <div align="center">
 
-### 📌 Proyecto 1: Inventario Web
+### 📌 Proyecto 1: Sell&Buy
+[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Sell-Buy)
+[![Demo](https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://sellandbuy-five.vercel.app/)
+
+Marketplace inteligente que optimiza la experiencia de compra y venta mediante IA. El sistema automatiza la generación de descripciones y sugiere precios competitivos para los productos publicados.
+
+**Tech Stack:** Next.js 16 • TypeScript • Firebase • Gemini AI
+
+- 🤖 **IA Generativa:** Integración de Gemini 2.5 Flash para asistencia en la creación de anuncios.
+- 🚀 **Rendimiento:** Desarrollado con Next.js (App Router) y Tailwind CSS 4 para una interfaz rápida y reactiva.
+- ☁️ **Infraestructura:** Gestión de datos, imágenes y sesiones de usuario a través de Firebase.
+
+## 🌱 Actualmente aprendiendo
+
+- 🔄 Arquitecturas de microservicios
+- ☁️ Servicios en la nube (AWS/Azure)
+- 📱 Desarrollo móvil con React Native
+- 🤖 Integración de LLMs y APIs de IA en aplicaciones web
+
+---
+
+### 📌 Proyecto 2: Inventario Web
 [![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Inventario)
 [![Demo](https://img.shields.io/badge/Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://inventario-ymfk.vercel.app/login)
 
@@ -106,7 +127,7 @@ Sistema de gestión de inventario web con interfaz moderna e intuitiva. Permite 
 
 ---
 
-### 📌 Proyecto 2: The Last of Ants
+### 📌 Proyecto 3: The Last of Ants
 [![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/samrodri911/Game-Ants)
 
 Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervivencia.
@@ -114,15 +135,6 @@ Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervive
 **Tech Stack:** C++ x SFML
 
 </div>
-
----
-
-## 🌱 Actualmente aprendiendo
-
-- 🔄 Arquitecturas de microservicios
-- ☁️ Servicios en la nube (AWS/Azure)
-- 📱 Desarrollo móvil con React Native
-- 🤖 Integración de LLMs y APIs de IA en aplicaciones web
 
 ---
 
