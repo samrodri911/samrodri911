@@ -129,6 +129,8 @@ Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervive
 
 </div>
 
+---
+
 ## 🌱 Actualmente aprendiendo
 
 - 🔄 Arquitecturas de microservicios
@@ -137,7 +139,6 @@ Videojuego desarrollado en C++ que presenta mecánicas de estrategia y supervive
 - 🤖 Integración de LLMs y APIs de IA en aplicaciones web
 
 
----
 
 ## 📫 Conecta conmigo
 
